@@ -7,9 +7,9 @@ Proje kapsamında, YOLO (You Only Look Once) tabanlı nesne tespit algoritmalar�
 
 ## Veri Seti Bilgileri
 - Veri seti: Özel oluşturulmuş ve etiketlenmiş görüntüler
-- Toplam görüntü sayısı: 1647
-- Eğitim (Train): 1375 görüntü
-- Doğrulama (Validation): 272 görüntü
+- Toplam görüntü sayısı: 1261
+- Eğitim (Train): 1008 görüntü
+- Doğrulama (Validation): 126 görüntü
 - Toplam sınıf sayısı: 4
 
 ## Model ve Eğitim Detayları
