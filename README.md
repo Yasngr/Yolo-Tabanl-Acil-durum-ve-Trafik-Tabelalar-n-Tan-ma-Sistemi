@@ -1,4 +1,3 @@
-# Yolo-Tabanl-Acil-durum-ve-Trafik-Tabelalar-n-Tan-ma-Sistemi
 # YOLO Tabanlı Acil Durum ve Trafik Tabelalarının Tanınma Sistemi
 
 Bu proje, görüntü işleme ve derin öğrenme teknikleri kullanılarak acil durum işaretleri ve trafik tabelalarının otomatik olarak tespit edilmesini ve sınıflandırılmasını amaçlamaktadır. Çalışmada, gerçek dünya koşullarına uygun olarak oluşturulmuş ve manuel olarak etiketlenmiş özel bir veri seti kullanılmıştır.
